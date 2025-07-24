@@ -1,0 +1,6 @@
+@RacingDigitalAssignment_HostAddress = http://localhost:5242
+
+GET {{RacingDigitalAssignment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
